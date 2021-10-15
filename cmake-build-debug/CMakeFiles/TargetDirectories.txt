@@ -1,0 +1,3 @@
+D:/c90-tutorial/cmake-build-debug/CMakeFiles/c90_tutorial.dir
+D:/c90-tutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c90-tutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
